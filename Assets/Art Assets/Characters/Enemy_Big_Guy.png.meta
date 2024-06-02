@@ -1,0 +1,2985 @@
+fileFormatVersion: 2
+guid: 4e3a427453b950d49972cc37374376a7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8730c4deafb073c4ebd75a23946bfd71
+      internalID: 1204551357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 888
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1501a590350bc7442b39c732b17bff6a
+      internalID: -1727690257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 888
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48209a478f5f1904390351661fe58773
+      internalID: -1781991310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 888
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b8942e5d441d34fbe574bdfb5aa789
+      internalID: 1601637768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 888
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c657dd63cc279d44bbb4c122130fa6b4
+      internalID: -677303938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 888
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe6c604de871b4408061c113ab367fe
+      internalID: 2098897504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_6
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 888
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03822563694574c46a802e560d02a7ec
+      internalID: -1239851336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 888
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cd705932b1e8540bca83d32aa0fd02
+      internalID: 1605096546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 888
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3629f67da477742b488d63e10bd66d
+      internalID: -517619434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_9
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 888
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b10118ce11f884cb98841facae8893
+      internalID: -1773780324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 814
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae05f76638eefe4f924f7d7e2d6eb7d
+      internalID: 694105070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_11
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 814
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f0deebb6b4c2f4e846536d5e876c91
+      internalID: -1317875985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 814
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87a8d881a9c07c42b22c785043317c3
+      internalID: -1851334607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 814
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417680d2b394d7b4eab520cae5835aa0
+      internalID: 1957555111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 814
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8a4e49fa2bd194f8e0671d63aeb115
+      internalID: -1558000354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_15
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 814
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67021570a257b294f9fd370494695020
+      internalID: 30477142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_16
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 814
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66dbf850b2743346a988b38bccbc03f
+      internalID: -1404877447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_17
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 814
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f50a7b16daa6346a177219ada818fb
+      internalID: -1827904587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_18
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 814
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2665a2b7b0e7a48a041b1332cf254f
+      internalID: 259740892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_19
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 814
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74512454068d63949b95b4dd42399af0
+      internalID: -753436054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed81fb6a3584dd44c93125c484ba14e9
+      internalID: -1074821023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_21
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 740
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3be12ea23b5c034dbefe19da7802156
+      internalID: -1793662274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 740
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c73f894256d044bb8546da5c0ef5c3
+      internalID: 1237853706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 740
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab5c21361a299a4396ca4e98722ccb8
+      internalID: -1467227955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_24
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 740
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc92b6cf5a4cfbf47a90b23b4dbdd2fb
+      internalID: -2124977567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_25
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 740
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570f2b33c25531945ae1ca5bd350839b
+      internalID: -1207176495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_26
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 740
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6419300933d36a47a489300552e817c
+      internalID: -1193949020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_27
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 740
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c975f7838e6604bbacc3c6d6fecaf4
+      internalID: -1054296229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_28
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 740
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b18a073314f5af43b3fdc713543dcf6
+      internalID: -28888902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_29
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 740
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd3864567079574bbdcb046be008d6b
+      internalID: -795128713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a541a182800704ea339d69405c84d2
+      internalID: 651660289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 666
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4decadf3f85cdb94ab1cf40b9b716856
+      internalID: -1329081784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_32
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 666
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09325b63572bfa4796a725c3fb41ab9
+      internalID: 1220494577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_33
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 666
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc951a49bb2d044c9e7bd76683c25dc
+      internalID: 529547810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_34
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 666
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ff251bda4327647bf528c208c25adc
+      internalID: 428868734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_35
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 666
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f63ec6c375bfd840b921d2b7b2eadc6
+      internalID: 1508583073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_36
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 666
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62f443565e46864da6992b0f20a88e9
+      internalID: 1069472713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_37
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 666
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40450c0d3dd264f448f86d31b9969470
+      internalID: -1627613272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_38
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 666
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05601521ad1781046b84e6b0ee2409b9
+      internalID: -2093324150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_39
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 666
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513039cc64f674548b862de203aec3f2
+      internalID: -1372485113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e6a31b2b729604b848a69ba89aef01
+      internalID: -1337878325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_41
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 592
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d7bdf731d37b24fb1063a308679094
+      internalID: 236399808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_42
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 592
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d1131857430444f9ca3d93ef62006b
+      internalID: -2028030974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 592
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72048aef0694604d8f2684e630d5b15
+      internalID: 1799259887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_44
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 592
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af00ddee563bfcb408ae4408969c0265
+      internalID: 654351878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_45
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 592
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62faa9bf147d5534a85c667c125956f7
+      internalID: -809961356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_46
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 592
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bca30c89bffae54dbaf7b7259744e70
+      internalID: 136955745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_47
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 592
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b054adcc3fe714e439c24500bdbc2061
+      internalID: 1614160520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_48
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 592
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2830decf709d99648b408422258c3a19
+      internalID: -949612769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_49
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 592
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9dd245c14c85c4498bfe8c5e8cba98
+      internalID: 1421662358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 518
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3485795f8382e684b9e0879915b719d2
+      internalID: 1860217593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_51
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 518
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b639d993492e040bb1235f5f081e10
+      internalID: -642428776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_52
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 518
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45833f952c11e76459a50fe6fda715ba
+      internalID: 210402240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_53
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 518
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b5faf4f91de764c89244fcbb2b2edf
+      internalID: -1400767192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_54
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 518
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8e667ce4fbe7243b031d5381f5219d
+      internalID: 412333826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_55
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 518
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b4459b40b88f748b15d437deb7f8bc
+      internalID: 1052673964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_56
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 518
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6238eb5419a1c6343b9f77711dcd88eb
+      internalID: -297252463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_57
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 518
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc742e84ed15b74288d3444c3c54a08
+      internalID: -692655911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_58
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 518
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44abf48ab477c842987f60e58b87646
+      internalID: -1991273884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_59
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 518
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9ac17a65d4d9949aa295d36e4c8960
+      internalID: 1173456706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116fc90db2d0ded4d8f3888e601b6151
+      internalID: 1492056913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_61
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 444
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc52da9b3b397a441bfc6e636f6bc111
+      internalID: 1130263983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_62
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 444
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b46bf6145cfba4faf4bee6523e71e6
+      internalID: -665666924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_63
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 444
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fd0d7f7ede3044289ab2f1d0a707ad
+      internalID: -882373723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_64
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 444
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd13181b2597674588321442a2c0ced
+      internalID: -1615442566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_65
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 444
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92558920ad09bd54c99e40b4536a6624
+      internalID: -1967652570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_66
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 444
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b9d0f426363ad47818246c60aefab3
+      internalID: 304508871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_67
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 444
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ada377d23568f4fb7853c10cda0217
+      internalID: -1987985753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_68
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 444
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69336d2f7381f1d45ac291f5ba853583
+      internalID: 1243693403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_69
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 444
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da5e59f4ce9d5b4dbb573073e926e2a
+      internalID: 1612046156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13e6925913725c46b8fa704ff06e7d6
+      internalID: 2124613220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_71
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 370
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7232fc662c15dc64faf0c632f28e739f
+      internalID: -1300961811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_72
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 370
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c236aede9bd02ac4cb52a02c9f416b63
+      internalID: 842774944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_73
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 370
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85765c832bae8648bc801c3652e5691
+      internalID: -1608355804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_74
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 370
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8724cd32f967e44dad5f1420e3f6fda
+      internalID: -75997436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_75
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 370
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67cc730c4146324a8146ac4be1ddfe8
+      internalID: 2095339347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_76
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 370
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd391bec7dbb0449999861e61edc370
+      internalID: 1584096883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_77
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 370
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e7a28202c773b4c9870a4654f9977b
+      internalID: 735344272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_78
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 370
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e76e7b08031f14d96b74a8d8babfaa
+      internalID: 791911018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_79
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 370
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14805e90f285bf644b4c81fdb6c7d1c5
+      internalID: 578113821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff3bae66245f0e47983861c273baa75
+      internalID: 388457359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_81
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 296
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8032df2b922ea6847857aafd7034fdb8
+      internalID: -1997163067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_82
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 296
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5acdeaa6110754daa8bced5c515336
+      internalID: 1641273459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_83
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 296
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da09b8fe992a30d49804ce6871a01a58
+      internalID: -542022446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_84
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 296
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a480d83080ccf58439be6c19179b0558
+      internalID: 702245228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_85
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 296
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1065a4764a701a4ba8a141c8aed67c7
+      internalID: -665948963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_86
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 296
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da0c37b311cef14dbdc4ddf69c7c9be
+      internalID: -340198702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_87
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 296
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6b562ba32fad64f9e4a73445c062da
+      internalID: -443299450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_88
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 296
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b32a3f17648d034b8976e6c83bd1913
+      internalID: 1154195945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_89
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 296
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb2cb823e0589e4684be85b10762a5c
+      internalID: 121086772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edca1b10769a4f4dab285f908710205
+      internalID: 489824250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_91
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 222
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc454b7312d64d84b879ba7099892e4e
+      internalID: -1326758562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_92
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 222
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69bcad827b4989459f7f2040eb09246
+      internalID: -1660147603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_93
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 222
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3243a66f12364a46ab96fb6054768e6
+      internalID: 125745463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_94
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 222
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c64e74c5f8d5c44c93400c03600e045
+      internalID: 1138918267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_95
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 222
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf4a9b70f3860441a56bfe2b3016d19
+      internalID: 175408593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_96
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 222
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b3b42b83bae6f4e9574bc839900ced
+      internalID: 601115642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_97
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 222
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c999c3188b089cf4c834c49c4369e116
+      internalID: -1145320676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_98
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 222
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bfbc8f02a31514fa366c4cf320e7f3
+      internalID: -569820455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_99
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 222
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9de4586d516c3041b2a83d447e413ad
+      internalID: -207796011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f074a73510c30c44abf550d75544287
+      internalID: -1737371797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_101
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 148
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66f575e448374b41aaddc27f652d42d
+      internalID: -1928576167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_102
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 148
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2029b2eb6d54bf47b6627b27d86e91c
+      internalID: 1046339451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_103
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 148
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4312d490a2b7342acc4f02320d51f3
+      internalID: 1881106190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_104
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 148
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f916a92da54a2ca4294a56ae61dd917d
+      internalID: -430053523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_105
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 148
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12992a4825428e9438be6cdcf7488a1d
+      internalID: 1671268559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_106
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 148
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba8df639539b1c4394ce90313fcdc5b
+      internalID: 925688070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_107
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 148
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e6a183cb36d8541b0da57cb856d0d5
+      internalID: 583230210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_108
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 148
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743d91bad30234940af13f548891a3a4
+      internalID: 636458366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_109
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 148
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9570a28fa21214f98fd9b1445a13b0
+      internalID: 986811095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7f4a3ec217d504285d7ba72f1abe8a
+      internalID: 1878018195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_111
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 74
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa16bee6d5071d444adf4a013bac7b79
+      internalID: -202215976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_112
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 74
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee87ae657f04d747abd89d1dbebcca8
+      internalID: 1349702683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_113
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 74
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b345242d3001a3a48a76baf49445a889
+      internalID: 223846877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_114
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 74
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26660ad24325f7f48b0b7967369c2f93
+      internalID: 759470101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_115
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 74
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a22b44ed9975f34bb9c9a00fff33e9f
+      internalID: 886834224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_116
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 74
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20438047613c1b248a5da2c4741a3561
+      internalID: 1941472995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_117
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 74
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4960c51e9eea6ac40a143c5d6f4e0e54
+      internalID: -845846045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_118
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 74
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418236413ed8fa64aaa83a54fc9fca41
+      internalID: -681671918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_119
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 74
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c1e9d55febf424e80d522237ead36d
+      internalID: -1903437453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636656393fea7154885bafd5a9b21579
+      internalID: -806103945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_121
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af2eec9fe69eb448adb0121b2dc94a0
+      internalID: 1152849047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_122
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f3dada4a3b7c2439c1374196daba22
+      internalID: 2128271951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_123
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326d5882ccfb542469ee571be76d22e0
+      internalID: -1700775749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_124
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978176546f5bba240a16e7e9a862ce9c
+      internalID: 342515745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_125
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38b85db0ee1eed44bbc79a1b03dfd31
+      internalID: -1253674128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_126
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0cb52a75f159742a6755b228dfa757
+      internalID: 67704282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_127
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f62a659ce016364f98bc90c7f00aa32
+      internalID: 1304395757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Big_Guy_128
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c35684f2005c041bb3491d8a1448b4
+      internalID: -1740129456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enemy_Big_Guy_66: 304508871
+      Enemy_Big_Guy_36: 1069472713
+      Enemy_Big_Guy_64: -1615442566
+      Enemy_Big_Guy_89: 121086772
+      Enemy_Big_Guy_115: 886834224
+      Enemy_Big_Guy_28: -28888902
+      Enemy_Big_Guy_43: 1799259887
+      Enemy_Big_Guy_124: 342515745
+      Enemy_Big_Guy_59: 1173456706
+      Enemy_Big_Guy_11: -1317875985
+      Enemy_Big_Guy_103: 1881106190
+      Enemy_Big_Guy_70: 2124613220
+      Enemy_Big_Guy_120: -806103945
+      Enemy_Big_Guy_61: 1130263983
+      Enemy_Big_Guy_2: -1781991310
+      Enemy_Big_Guy_45: -809961356
+      Enemy_Big_Guy_86: -340198702
+      Enemy_Big_Guy_125: -1253674128
+      Enemy_Big_Guy_27: -1054296229
+      Enemy_Big_Guy_118: -681671918
+      Enemy_Big_Guy_93: 125745463
+      Enemy_Big_Guy_19: -753436054
+      Enemy_Big_Guy_38: -2093324150
+      Enemy_Big_Guy_101: -1928576167
+      Enemy_Big_Guy_112: 1349702683
+      Enemy_Big_Guy_62: -665666924
+      Enemy_Big_Guy_47: 1614160520
+      Enemy_Big_Guy_13: 1957555111
+      Enemy_Big_Guy_100: -1737371797
+      Enemy_Big_Guy_88: 1154195945
+      Enemy_Big_Guy_6: -1239851336
+      Enemy_Big_Guy_15: 30477142
+      Enemy_Big_Guy_107: 583230210
+      Enemy_Big_Guy_52: 210402240
+      Enemy_Big_Guy_67: -1987985753
+      Enemy_Big_Guy_74: -75997436
+      Enemy_Big_Guy_34: 428868734
+      Enemy_Big_Guy_56: -297252463
+      Enemy_Big_Guy_78: 791911018
+      Enemy_Big_Guy_24: -2124977567
+      Enemy_Big_Guy_109: 986811095
+      Enemy_Big_Guy_128: -1740129456
+      Enemy_Big_Guy_35: 1508583073
+      Enemy_Big_Guy_50: 1860217593
+      Enemy_Big_Guy_68: 1243693403
+      Enemy_Big_Guy_5: 2098897504
+      Enemy_Big_Guy_1: -1727690257
+      Enemy_Big_Guy_20: -1074821023
+      Enemy_Big_Guy_49: 1421662358
+      Enemy_Big_Guy_76: 1584096883
+      Enemy_Big_Guy_121: 1152849047
+      Enemy_Big_Guy_127: 1304395757
+      Enemy_Big_Guy_29: -795128713
+      Enemy_Big_Guy_55: 1052673964
+      Enemy_Big_Guy_114: 759470101
+      Enemy_Big_Guy_85: -665948963
+      Enemy_Big_Guy_42: -2028030974
+      Enemy_Big_Guy_10: 694105070
+      Enemy_Big_Guy_51: -642428776
+      Enemy_Big_Guy_63: -882373723
+      Enemy_Big_Guy_73: -1608355804
+      Enemy_Big_Guy_37: -1627613272
+      Enemy_Big_Guy_40: -1337878325
+      Enemy_Big_Guy_53: -1400767192
+      Enemy_Big_Guy_117: -845846045
+      Enemy_Big_Guy_92: -1660147603
+      Enemy_Big_Guy_102: 1046339451
+      Enemy_Big_Guy_48: -949612769
+      Enemy_Big_Guy_82: 1641273459
+      Enemy_Big_Guy_9: -1773780324
+      Enemy_Big_Guy_104: -430053523
+      Enemy_Big_Guy_123: -1700775749
+      Enemy_Big_Guy_25: -1207176495
+      Enemy_Big_Guy_30: 651660289
+      Enemy_Big_Guy_108: 636458366
+      Enemy_Big_Guy_90: 489824250
+      Enemy_Big_Guy_33: 529547810
+      Enemy_Big_Guy_7: 1605096546
+      Enemy_Big_Guy_26: -1193949020
+      Enemy_Big_Guy_97: -1145320676
+      Enemy_Big_Guy_116: 1941472995
+      Enemy_Big_Guy_80: 388457359
+      Enemy_Big_Guy_8: -517619434
+      Enemy_Big_Guy_54: 412333826
+      Enemy_Big_Guy_21: -1793662274
+      Enemy_Big_Guy_65: -1967652570
+      Enemy_Big_Guy_77: 735344272
+      Enemy_Big_Guy_91: -1326758562
+      Enemy_Big_Guy_72: 842774944
+      Enemy_Big_Guy_111: -202215976
+      Enemy_Big_Guy_99: -207796011
+      Enemy_Big_Guy_71: -1300961811
+      Enemy_Big_Guy_14: -1558000354
+      Enemy_Big_Guy_18: 259740892
+      Enemy_Big_Guy_69: 1612046156
+      Enemy_Big_Guy_60: 1492056913
+      Enemy_Big_Guy_84: 702245228
+      Enemy_Big_Guy_87: -443299450
+      Enemy_Big_Guy_32: 1220494577
+      Enemy_Big_Guy_95: 175408593
+      Enemy_Big_Guy_119: -1903437453
+      Enemy_Big_Guy_110: 1878018195
+      Enemy_Big_Guy_96: 601115642
+      Enemy_Big_Guy_98: -569820455
+      Enemy_Big_Guy_44: 654351878
+      Enemy_Big_Guy_16: -1404877447
+      Enemy_Big_Guy_17: -1827904587
+      Enemy_Big_Guy_23: -1467227955
+      Enemy_Big_Guy_39: -1372485113
+      Enemy_Big_Guy_22: 1237853706
+      Enemy_Big_Guy_126: 67704282
+      Enemy_Big_Guy_113: 223846877
+      Enemy_Big_Guy_79: 578113821
+      Enemy_Big_Guy_122: 2128271951
+      Enemy_Big_Guy_4: -677303938
+      Enemy_Big_Guy_46: 136955745
+      Enemy_Big_Guy_81: -1997163067
+      Enemy_Big_Guy_106: 925688070
+      Enemy_Big_Guy_12: -1851334607
+      Enemy_Big_Guy_83: -542022446
+      Enemy_Big_Guy_94: 1138918267
+      Enemy_Big_Guy_0: 1204551357
+      Enemy_Big_Guy_3: 1601637768
+      Enemy_Big_Guy_75: 2095339347
+      Enemy_Big_Guy_41: 236399808
+      Enemy_Big_Guy_105: 1671268559
+      Enemy_Big_Guy_58: -1991273884
+      Enemy_Big_Guy_57: -692655911
+      Enemy_Big_Guy_31: -1329081784
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

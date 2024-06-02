@@ -1,0 +1,2083 @@
+fileFormatVersion: 2
+guid: 821fb83b42ff6e84cbd6248826137d33
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f13d9edf9ae864ead987ba9ae25d82
+      internalID: 2131787570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 536
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cb2bbd883350b45b1d581a99bbcfff
+      internalID: 2041894925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 536
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a8383c9a5d71541845467fb77e9c66
+      internalID: -249640839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 536
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b395595fd8d75fa4183909422165c7a0
+      internalID: -103213091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 536
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1d5d8f7ba27bd4eb7fd6daa1da95d1
+      internalID: 1789280343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 536
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510467a729a21df4ea9324cf515e44da
+      internalID: -143694368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 536
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80d886b9db3bdc47998e561f493e370
+      internalID: -1496764949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 536
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d7645acb80ea149a448e8c22478865
+      internalID: -518680653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 536
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f32f5992e75cf04884c1f7915fb19eb
+      internalID: -1785209138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_9
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 536
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5337ab308040740b0053c53193282d
+      internalID: 2048460674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3ec0a3e8b644b428ef3d9cf4484195
+      internalID: 1930610798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 469
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa1fb042d1ffc1449eeba25c3b8ca31
+      internalID: 870689789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 469
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3371992bdaed33944a4a1b4cdbfe6913
+      internalID: 1102951523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 469
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3441f02cade45428a8e34f2d9809b1
+      internalID: -1324480427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 469
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49cbc568048e9441a18e9aefd5b89c8
+      internalID: 1178744004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_15
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 469
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7f8de2997c79d49920a492135b4017
+      internalID: -851589652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_16
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 469
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f72ec92c1a2e34ca599f86cae9937b
+      internalID: 996900461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_17
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 469
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356bbcd16a739bf44af03bfa72e34a84
+      internalID: 1125596162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_18
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 469
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86533b81b327b4f40a57538636de94da
+      internalID: -594110616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_19
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 469
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b619e336d5a6843a8d9b4f1d754158
+      internalID: 80994461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5856bc0961973c2488ecf9608c50ff1c
+      internalID: -1022755249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 402
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69e0ceda80bbce45a968d137205c12c
+      internalID: 503092152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 402
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30af49e5b943454895905d61653f1eb
+      internalID: -870305978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_23
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 402
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781749d3141344843ae304f263d2f478
+      internalID: -632374389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 402
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec16e2f6ad524e489111c0b17d35e97
+      internalID: 743034944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_25
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 402
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ec1bfb5ea1bbd4493ac99deb26a41b
+      internalID: 2061237415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_26
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 402
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbae874db6f68044a2c077127da4ae5
+      internalID: -441365840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_27
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 402
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179b29fe613f622478d0637de1de7668
+      internalID: 260014870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_28
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 402
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74082f832163183458f709992df31de0
+      internalID: -359079838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_29
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 402
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa36926f56c08244dabbb752d1af1f1e
+      internalID: -250986845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab352ed75e9da144a83d10262dfac425
+      internalID: -1283326081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 335
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81b028a95aa75549bcc9c1dda186c9d
+      internalID: -241141482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 335
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420fa6d23147cac41b9e3360d0155a02
+      internalID: -163001809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_33
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 335
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199b3b33d3c5f514cb89fe786506b7b9
+      internalID: -479244934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_34
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 335
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e75b34f1a9d195479c2f9b0c2538dfb
+      internalID: -300445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_35
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 335
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713c27cd75cb3434b91bb74099d899ef
+      internalID: 2026306162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_36
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 335
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e7407f330b10148bd405880e2dc271
+      internalID: -1064609826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_37
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 335
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec06788401808954682c50651ae5411e
+      internalID: -21967575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_38
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 335
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d62afb6e101da1438592d7e848b03b2
+      internalID: 289377282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_39
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 335
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fddaa279ac4a3b46a357b7e07beada7
+      internalID: 1200654301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc52c7aad1c89548a9b67129d5ad900
+      internalID: 1224211986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 268
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfaf4fc3c7ed684eb96fe165961d06f
+      internalID: -47387857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_42
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 268
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323632f9c9af1324994850232726f6fa
+      internalID: 1840286012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_43
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 268
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c3beb8e2961a5489d87c05177f8355
+      internalID: -1338506683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_44
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 268
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c057198b227a94a93593f03b75a72c
+      internalID: -458472301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_45
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 268
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85dfc800dc16e74ebb7d9092ef53a9c
+      internalID: -1604502441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_46
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 268
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26bac727951f594982ea9665328b766
+      internalID: -1093706405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_47
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 268
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48016465c51727c47beac5c78bac2326
+      internalID: -147242933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_48
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 268
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3eb10dd5f1fa74b8c67f76208834ff
+      internalID: -1953645597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_49
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 268
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740381f0513467b4fb011a1cc4a955b7
+      internalID: 1579583929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eb2b6f342aaa24f9f62f15d637d4e1
+      internalID: -1479913443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 201
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b26b3e3a9de8144f9a4d07f2d32907c
+      internalID: -1278006243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_52
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 201
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f23e2982a5ae0b4c99f205754f5f5b0
+      internalID: 1985169979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_53
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 201
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838ad318059c2854fb4194435d812d9e
+      internalID: 1759200062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_54
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 201
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a770913b3a75a184c821e991db1b9e26
+      internalID: -628716768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_55
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 201
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2f896c62f70644fa7ba0dccf9a411d
+      internalID: 1160433062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_56
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 201
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c8431166ecf4a4da0b601551a519e1
+      internalID: -1544119610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_57
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 201
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66ef9a855d41bf4991e88b30ab46411
+      internalID: -643673061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_58
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 201
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52909174263d1eb46a4be0a1f1c44767
+      internalID: -1918821742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_59
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 201
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed7a2b588011354087c41b679eca33c
+      internalID: -1081323519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036791598ee2a5f4784a5962533f9d2a
+      internalID: 612665734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_61
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 134
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369e53d22f239ec41bdf1837408c3d69
+      internalID: -1557766716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_62
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 134
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d508913521b034c85104c266a2701a
+      internalID: 991432312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_63
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 134
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af859f48ac3850444a17462c17af0754
+      internalID: 2111181053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_64
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 134
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b03860a80560340a86637c59f2e5c5
+      internalID: 40837935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_65
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 134
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e32e562a4e76264198e29ad12acf6ba
+      internalID: -1902994250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_66
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 134
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcf052c26cb8bc40937b622ae5b2a4c
+      internalID: 1610114509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_67
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 134
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4c7c8ec90c1804a8c13be2a137e81a
+      internalID: 943705325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_68
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 134
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20d1f4d39d110d45b2a3c36a4331a20
+      internalID: -789946642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_69
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 134
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19e4062deacce2468b4283f9110e337
+      internalID: 1191576965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23af239497b8598479f85fba4a8da31a
+      internalID: 1388659428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_71
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 67
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff73f01ff90b9a429a714cc6e5f10cd
+      internalID: -1980606961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_72
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 67
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46430c32a2933ab46841628d4e94c696
+      internalID: -264363068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_73
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 67
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6ba613cfac3e44896be40d8546339d
+      internalID: 1576632326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_74
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 67
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869be56663dd28140b554fa60121d07c
+      internalID: 2024015054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_75
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 67
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3046b222dd684742951aa2217029d78
+      internalID: -1073259761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_76
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 67
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bace84362bca942b16be93d45f06ce
+      internalID: 1950911641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_77
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 67
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6483339f8e3e628439e57fded3941059
+      internalID: -102725340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_78
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 67
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6780752288c23d24796acf1655a2ee75
+      internalID: -870548864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_79
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 67
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873a7f650bb7303448fb2af62e503d1b
+      internalID: 1373110910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d43c5c9c31d5ad43a2d08c274efbde2
+      internalID: -1051172751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_81
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecee44a43396f34fb65c7dcf6103738
+      internalID: -2107698376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_82
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a51b266db8b1a44919cbdaf5aacf4f
+      internalID: 1805389117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_83
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fb544f15c227940b7f3b188487481f
+      internalID: -1040695203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_84
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6ad2444b3f1e6449e6b4248f03060b
+      internalID: 2040300589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_85
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fd1b8e6663de541a12c052aa9ef5b5
+      internalID: 1809771829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_86
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1a740d9301fb84cae5ef7acab9211c
+      internalID: 815208084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bald_Pirate_87
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c977f2231844ee48993646c53f2be75
+      internalID: -1847565226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enemy_Bald_Pirate_20: -1022755249
+      Enemy_Bald_Pirate_82: 1805389117
+      Enemy_Bald_Pirate_9: 2048460674
+      Enemy_Bald_Pirate_42: 1840286012
+      Enemy_Bald_Pirate_55: 1160433062
+      Enemy_Bald_Pirate_54: -628716768
+      Enemy_Bald_Pirate_85: 1809771829
+      Enemy_Bald_Pirate_59: -1081323519
+      Enemy_Bald_Pirate_79: 1373110910
+      Enemy_Bald_Pirate_81: -2107698376
+      Enemy_Bald_Pirate_87: -1847565226
+      Enemy_Bald_Pirate_14: 1178744004
+      Enemy_Bald_Pirate_72: -264363068
+      Enemy_Bald_Pirate_77: -102725340
+      Enemy_Bald_Pirate_38: 289377282
+      Enemy_Bald_Pirate_6: -1496764949
+      Enemy_Bald_Pirate_53: 1759200062
+      Enemy_Bald_Pirate_13: -1324480427
+      Enemy_Bald_Pirate_50: -1479913443
+      Enemy_Bald_Pirate_8: -1785209138
+      Enemy_Bald_Pirate_19: 80994461
+      Enemy_Bald_Pirate_28: -359079838
+      Enemy_Bald_Pirate_70: 1388659428
+      Enemy_Bald_Pirate_0: 2131787570
+      Enemy_Bald_Pirate_1: 2041894925
+      Enemy_Bald_Pirate_63: 2111181053
+      Enemy_Bald_Pirate_68: -789946642
+      Enemy_Bald_Pirate_12: 1102951523
+      Enemy_Bald_Pirate_2: -249640839
+      Enemy_Bald_Pirate_29: -250986845
+      Enemy_Bald_Pirate_44: -458472301
+      Enemy_Bald_Pirate_4: 1789280343
+      Enemy_Bald_Pirate_7: -518680653
+      Enemy_Bald_Pirate_10: 1930610798
+      Enemy_Bald_Pirate_32: -163001809
+      Enemy_Bald_Pirate_83: -1040695203
+      Enemy_Bald_Pirate_22: -870305978
+      Enemy_Bald_Pirate_24: 743034944
+      Enemy_Bald_Pirate_80: -1051172751
+      Enemy_Bald_Pirate_26: -441365840
+      Enemy_Bald_Pirate_30: -1283326081
+      Enemy_Bald_Pirate_66: 1610114509
+      Enemy_Bald_Pirate_46: -1093706405
+      Enemy_Bald_Pirate_86: 815208084
+      Enemy_Bald_Pirate_60: 612665734
+      Enemy_Bald_Pirate_58: -1918821742
+      Enemy_Bald_Pirate_49: 1579583929
+      Enemy_Bald_Pirate_35: 2026306162
+      Enemy_Bald_Pirate_84: 2040300589
+      Enemy_Bald_Pirate_57: -643673061
+      Enemy_Bald_Pirate_62: 991432312
+      Enemy_Bald_Pirate_76: 1950911641
+      Enemy_Bald_Pirate_41: -47387857
+      Enemy_Bald_Pirate_47: -147242933
+      Enemy_Bald_Pirate_11: 870689789
+      Enemy_Bald_Pirate_64: 40837935
+      Enemy_Bald_Pirate_16: 996900461
+      Enemy_Bald_Pirate_33: -479244934
+      Enemy_Bald_Pirate_43: -1338506683
+      Enemy_Bald_Pirate_67: 943705325
+      Enemy_Bald_Pirate_48: -1953645597
+      Enemy_Bald_Pirate_65: -1902994250
+      Enemy_Bald_Pirate_71: -1980606961
+      Enemy_Bald_Pirate_15: -851589652
+      Enemy_Bald_Pirate_73: 1576632326
+      Enemy_Bald_Pirate_78: -870548864
+      Enemy_Bald_Pirate_31: -241141482
+      Enemy_Bald_Pirate_69: 1191576965
+      Enemy_Bald_Pirate_74: 2024015054
+      Enemy_Bald_Pirate_23: -632374389
+      Enemy_Bald_Pirate_75: -1073259761
+      Enemy_Bald_Pirate_17: 1125596162
+      Enemy_Bald_Pirate_51: -1278006243
+      Enemy_Bald_Pirate_27: 260014870
+      Enemy_Bald_Pirate_39: 1200654301
+      Enemy_Bald_Pirate_18: -594110616
+      Enemy_Bald_Pirate_37: -21967575
+      Enemy_Bald_Pirate_3: -103213091
+      Enemy_Bald_Pirate_52: 1985169979
+      Enemy_Bald_Pirate_61: -1557766716
+      Enemy_Bald_Pirate_34: -300445
+      Enemy_Bald_Pirate_36: -1064609826
+      Enemy_Bald_Pirate_21: 503092152
+      Enemy_Bald_Pirate_40: 1224211986
+      Enemy_Bald_Pirate_45: -1604502441
+      Enemy_Bald_Pirate_5: -143694368
+      Enemy_Bald_Pirate_25: 2061237415
+      Enemy_Bald_Pirate_56: -1544119610
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

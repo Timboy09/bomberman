@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Bomb
+  - Bomb Explosion
+  - Bomb Col
+  - Heart PickUp
+  - Door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Platforms
+  - Water
+  - UI
+  - Player
+  - Bomb
+  - Bomb Explosion
+  - Enemy
+  - Bomb Col
+  - Player Col
+  - Objects
+  - Heart Pickup
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG Wall
+    uniqueID: 32128861
+    locked: 0
+  - name: Door
+    uniqueID: 3508853735
+    locked: 0
+  - name: Wall
+    uniqueID: 4267004239
+    locked: 0
+  - name: Objects
+    uniqueID: 3369294071
+    locked: 0
+  - name: Platform
+    uniqueID: 1933760787
+    locked: 0
+  - name: Enemy
+    uniqueID: 2977884611
+    locked: 0
+  - name: Bomb
+    uniqueID: 2760929395
+    locked: 0
+  - name: Player
+    uniqueID: 4230990855
+    locked: 0
+  - name: UI
+    uniqueID: 1787889709
+    locked: 0
